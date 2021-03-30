@@ -89,7 +89,7 @@
     "@types/request": "2.48.3",
     "@types/semver": "6.2.0",
     "@typescript-eslint/eslint-plugin": "2.12.0",
-    "@verdaccio/eslint-config": "^8.5.0",
+    "@verdaccio/eslint-config": "^10.0.0",
     "@verdaccio/types": "^9.7.2",
     "all-contributors-cli": "6.19.0",
     "babel-eslint": "10.1.0",
